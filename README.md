@@ -1,6 +1,6 @@
 # Diorama
 
- ##Project: http://diorama.42web.io/
+##Project: http://diorama.42web.io/
 
 1. Jsem vytvořil interactivní dioramu.
 Funguje to tak, že máš panačka a on prohledává svět (když se k něcěmu priblíži tak se občas něco stane).
